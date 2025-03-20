@@ -35,48 +35,38 @@ personal-portfolio/
 
 git clone https://github.com/yourusername/personal-portfolio.git
 
-2. Open the Project
 
-Navigate to the project folder.
+### Open the Project
+1. Navigate to the project folder.
+2. Open `index.html` in your browser.
 
-Open index.html in your browser.
+## How to Navigate the Website
 
+- **Home Page (`index.html`)**: Introduction & navigation links.
+- **About Page (`about.html`)**: My bio, skills, and fun facts.
+- **Recipe Pages (`recipe1.html`, `recipe2.html`)**: My favorite meals with recipes.
 
+## Screenshots
 
+(Add screenshots of your website here)
 
-How to Navigate the Website
-
-Home Page (index.html) – Introduction & navigation links.
-
-About Page (about.html) – My bio, skills, and fun facts.
-
-Recipe Pages (recipe1.html, recipe2.html) – My favorite meals with recipes.
-
-
-Screenshots
-
-> (Add screenshots of your website here)
-
-
-
-Code Validation
+## Code Validation
 
 HTML and CSS were validated using W3C Validators.
 
+## Future Improvements
 
-Future Improvements
+- ✅ Add more JavaScript interactions.
+- ✅ Enhance styling with animations.
+- ✅ Expand the portfolio with projects and blogs.
 
-✅ Add more JavaScript interactions.
-✅ Enhance styling with animations.
-✅ Expand the portfolio with projects and blogs.
-
-Credits
+## Credits
 
 Developed by Tracy Mmbone
 
 Resources: MDN Web Docs, W3Schools
 
-
-License
+## License
 
 This project is open-source and free to use.
+
