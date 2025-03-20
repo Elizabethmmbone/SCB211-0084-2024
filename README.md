@@ -15,25 +15,11 @@ This is my first personal portfolio website, built using **HTML, CSS, and JavaSc
 - **CSS3** – For styling and responsiveness.  
 - **JavaScript** – For interactivity.  
 
-## File Structure
-
-personal-portfolio/
-│── index.html        # Landing Page
-│── about.html        # About Me Page
-│── recipe1.html      # Favorite Meal 1
-│── recipe2.html      # Favorite Meal 2
-│── style.css         # Stylesheet
-│── script.js         # JavaScript Functions
-│── images/           # Image Assets
-│    ├── profile.jpg
-│    ├── meal1.jpg
-│    ├── meal2.jpg
-│── README.md         # Project Documentation
 
 ## Installation & Usage  
 1. **Download or Clone the Repository**  
 
-git clone https://github.com/yourusername/personal-portfolio.git
+git clone https://github.com/Elizabethmmbone/SCB211-0084-2024.git
 
 
 ### Open the Project
