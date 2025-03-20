@@ -32,7 +32,7 @@ personal-portfolio/
 
 ## Installation & Usage  
 1. **Download or Clone the Repository**  
-```sh
+
 git clone https://github.com/yourusername/personal-portfolio.git
 
 2. Open the Project
