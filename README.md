@@ -1,4 +1,4 @@
-# Tracy Mmbone's Personal Portfolio Website  
+# Elizabeth Mmbone's Personal Portfolio Website  
 
 ## Project Overview  
 This is my first personal portfolio website, built using **HTML, CSS, and JavaScript**. It showcases my skills, personality, and favorite meals while providing a simple and elegant user experience.  
